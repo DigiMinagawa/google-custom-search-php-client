@@ -429,7 +429,7 @@ class Google_CustomSearch_Response
      * 
      * @return integer
      */
-    public function getTotalResutls()
+    public function getTotalResults()
     {
         $requestQuery = $this->getQuery(self::QUERY_REQUEST);
         if (!$requestQuery)

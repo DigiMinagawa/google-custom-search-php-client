@@ -334,7 +334,7 @@ class Google_CustomSearch_ResponseTest extends PHPUnit_Framework_TestCase
     {
         $response = new Google_CustomSearch_Response(file_get_contents($fixture));
 
-        $this->assertEquals($expectedTotalResults, $response->getTotalResutls());
-        $this->assertTrue($expectedTotalResults === $response->getTotalResutls());
+        $this->assertEquals($expectedTotalResults, $response->getTotalResults());
+        $this->assertTrue($expectedTotalResults === $response->getTotalResults());
     }
 }
