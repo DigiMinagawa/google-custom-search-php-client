@@ -3,8 +3,6 @@ Deprecated
 
 Please note this project is now **deprecated** in favour of the [Google APIs PHP Clients][4] project.
 
----
-
 Google Custom Search API PHP Client
 ===================================
 
