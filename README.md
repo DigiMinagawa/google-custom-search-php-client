@@ -1,3 +1,10 @@
+Deprecated
+==========
+
+Please note this project is now **deprecated** in favour of the [Google APIs PHP Clients][4] project.
+
+---
+
 Google Custom Search API PHP Client
 ===================================
 
@@ -54,3 +61,4 @@ To run the tests, make sure you have PHPUnit installed, and run,
 [1]: https://code.google.com/apis/console/?api=customsearch
 [2]: http://www.google.com/cse/
 [3]: https://code.google.com/apis/customsearch/v1/reference.html
+[4]: https://github.com/StephenMelrose/google-apis-php-clients
